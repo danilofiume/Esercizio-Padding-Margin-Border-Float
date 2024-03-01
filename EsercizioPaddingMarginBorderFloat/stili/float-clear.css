@@ -1,0 +1,48 @@
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+#box1 {
+    width: 350px;
+    min-height: auto;
+    background: beige;
+    margin-top: 15px;
+    margin-right: 0;
+    margin-bottom: 15px;
+    margin-left: 0;
+    padding: 20px;
+    border: 5px solid black;
+    float: left;
+
+}
+
+section {
+    width: 300px;
+    min-height: auto;
+    text-align: center;
+    background: beige;
+    margin: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-left: 5px solid orange;
+    border-right: 5px solid orange;
+    border-top: 10px solid orange;
+    border-bottom: 10px solid orange;
+    float: left;
+
+}
+
+
+
+
+footer {
+    clear: both;
+    background: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+
+}
